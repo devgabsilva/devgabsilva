@@ -1,16 +1,28 @@
-## Hi there 👋
+# Gabriel Silva Machado
 
-<!--
-**devgabsilva/devgabsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Back-end Developer · Spring Boot · REST APIs · MySQL · React
 
-Here are some ideas to get you started:
+Estagiário de TI na FUVS · SI @ UNIVAS · Minas Gerais, Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Em construção agora
+
+- **gerenciador-tarefas** — API REST Spring Boot + React + deploy em produção
+- **api-financeira** — Spring Boot + Swagger + JUnit + deploy em produção
+
+---
+
+## Stack
+
+**Back-end:** Java · Spring Boot · Spring Data JPA · REST APIs · MySQL · JDBC
+
+**Front-end:** React · JavaScript · HTML · CSS
+
+**Ferramentas:** Git · GitHub · Postman · IntelliJ IDEA · Maven
+
+---
+
+## Onde me encontrar
+
+[LinkedIn](https://linkedin.com/in/devgabsilva) · [E-mail](maito:gabrielmachado0913@gmail.com)
