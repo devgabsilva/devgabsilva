@@ -25,4 +25,4 @@ Estagiário de TI na FUVS · SI @ UNIVAS · Minas Gerais, Brazil
 
 ## Onde me encontrar
 
-[LinkedIn](https://linkedin.com/in/devgabsilva) · [E-mail](maito:gabrielmachado0913@gmail.com)
+[LinkedIn](https://linkedin.com/in/devgabsilva) · [E-mail](mailto:gabrielmachado0913@gmail.com)
