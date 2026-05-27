@@ -2,8 +2,6 @@
 
 Java Back-end Developer · Spring Boot · REST APIs · MySQL · React
 
-Estagiário de TI na FUVS · SI @ UNIVAS · Minas Gerais, Brazil
-
 ---
 
 ## Em construção agora
