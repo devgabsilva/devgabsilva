@@ -7,7 +7,7 @@ Estudante de Sistemas de Informação na UNIVÁS (MG). Construo sistemas que res
 ## 🚀 Em produção
 
 - **Precificador** — sistema de precificação para marketplaces que desenvolvi na agência onde trabalho. Substituiu as planilhas manuais e hoje roda na operação de **mais de 60 contas**. Next.js, TypeScript, PostgreSQL (Supabase) com RLS, controle de acesso por perfil, log de auditoria, integração com as APIs do Mercado Livre e da Shopee, deploy na Vercel. *(repositório privado da empresa)*
-- **Agenda Barbers** — plataforma de agendamento para barbearias com integração ao WhatsApp, em comercialização: [agendabarbers.com.br](https://agendabarbers.com.br)
+- **Agenda Barbers** — plataforma de agendamento para barbearias com integração ao WhatsApp, em comercialização: [agendabarbers.online](https://agendabarbers.online)
 
 ## 🛠️ Em desenvolvimento
 
